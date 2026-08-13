@@ -14,3 +14,7 @@ artifacts/*.html
 
 .vs/
 artifacts/capstone_outputs*.txt
+
+artifacts/current_batch.csv
+artifacts/drift_summary.json
+artifacts/retraining_decision.json
