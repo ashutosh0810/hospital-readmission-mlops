@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+
+mlflow.db
+mlruns/
+
+data/*.csv
+
+artifacts/predictions.log
+artifacts/*.html
+
+.vs/
+artifacts/capstone_outputs*.txt

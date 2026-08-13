@@ -1,0 +1,23 @@
+{
+    "best_model": "Logistic Regression",
+    "selection_metric": "roc_auc",
+    "validation_metrics": {
+        "roc_auc": 0.6532,
+        "pr_auc": 0.1689,
+        "f1": 0.2263,
+        "recall": 0.5388,
+        "precision": 0.1432,
+        "accuracy": 0.6696
+    },
+    "test_metrics": {
+        "roc_auc": 0.6444,
+        "pr_auc": 0.1671,
+        "f1": 0.2181,
+        "recall": 0.5203,
+        "precision": 0.1379,
+        "accuracy": 0.6654
+    },
+    "registered_model": "readmission_classifier",
+    "registered_version": "2",
+    "production_alias": "production"
+}
